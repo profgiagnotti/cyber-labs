@@ -181,8 +181,6 @@ sudo nmap -sn -PS22,80,443 192.168.56.101  # usa TCP invece di ICMP
 
 - 📝 Guida VirtualBox: [virtualbox.org/manual](https://www.virtualbox.org/manual/)
 - 🔗 Metasploitable 2 docs: [github.com/rapid7/metasploitable3](https://github.com/rapid7/metasploitable3)
-- ▶️ Video setup: [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
-- 💬 Problemi? Chiedi sul Discord: [discord.gg/profgiagnotti](https://discord.gg/profgiagnotti)
 
 ---
 
