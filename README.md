@@ -88,6 +88,6 @@ sudo nmap -sV -oX scan_result.xml 192.168.1.TARGET
 - [ ] Leggi il file XML con Python (vedi `nmap_scanner.py`)
 
 ---
-📹 Video walkthrough: [youtube.com/@profgiagnotti](https://youtube.com/@profgiagnotti)
-📖 Articolo correlato: [profgiagnotti.it/blog/cybersecurity/nmap-guida-completa](https://profgiagnotti.it)
+
+📖 Guida correlata: [Cybersecurity](https://profgiagnotti.altervista.org/academy/)
 ⬅️ [Torna ai Cyber Labs](../README.md)
