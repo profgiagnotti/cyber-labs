@@ -90,4 +90,3 @@ sudo nmap -sV -oX scan_result.xml 192.168.1.TARGET
 ---
 
 📖 Guida correlata: [Cybersecurity Academy](https://profgiagnotti.altervista.org/academy/)
-⬅️ [Torna ai Cyber Labs](../README.md)
