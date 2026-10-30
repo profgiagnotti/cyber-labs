@@ -183,5 +183,3 @@ sudo nmap -sn -PS22,80,443 192.168.56.101  # usa TCP invece di ICMP
 - 🔗 Metasploitable 2 docs: [github.com/rapid7/metasploitable3](https://github.com/rapid7/metasploitable3)
 
 ---
-
-*⬅️ [Torna al Lab #01](../README.md)*
